@@ -16,6 +16,10 @@ Perfect for printing on t-shirts, hoodies, tote bags, stickers, and more.
 - Personal clothing projects  
 - Sticker sets for dev events
 
+## For all Background Colors
+There are two PNG files in each folder. "Light & Dark". You must use Light for White-gray color clothes and Dark for Black Clothes.
+![enter image description here](https://kourox.ir/wp-content/uploads/2025/07/cover.jpg)
+
 ## Preview
 > ![](https://kourox.ir/wp-content/uploads/2025/07/Geek_Clothes_Kourox.jpg)
 
